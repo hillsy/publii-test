@@ -5,6 +5,14 @@
 <loc>https://hillsy.github.io/publii-test/</loc>
 </url>
 <url>
+<loc>https://hillsy.github.io/publii-test/another-post.html</loc>
+<lastmod>2020-05-15T23:15:28+01:00</lastmod>
+<image:image>
+<image:loc>https://hillsy.github.io/publii-test/media/posts/2/lolcat_tease.jpg.900x0_q100_blur.jpg</image:loc>
+<image:title><![CDATA[A stupid cat]]></image:title>
+</image:image>
+</url>
+<url>
 <loc>https://hillsy.github.io/publii-test/test-post.html</loc>
 <lastmod>2020-05-15T23:08:45+01:00</lastmod>
 </url>

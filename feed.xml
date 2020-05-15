@@ -3,12 +3,33 @@
     <title>Test website</title>
     <link href="https://hillsy.github.io/publii-test/feed.xml" rel="self" />
     <link href="https://hillsy.github.io/publii-test" />
-    <updated>2020-05-15T23:09:14+01:00</updated>
+    <updated>2020-05-15T23:15:55+01:00</updated>
     <author>
         <name>Shaun Hills</name>
     </author>
     <id>https://hillsy.github.io/publii-test</id>
 
+    <entry>
+        <title>Another post</title>
+        <author>
+            <name>Shaun Hills</name>
+        </author>
+        <link href="https://hillsy.github.io/publii-test/another-post.html"/>
+        <id>https://hillsy.github.io/publii-test/another-post.html</id>
+
+        <updated>2020-05-15T23:15:28+01:00</updated>
+            <summary>
+                <![CDATA[
+                    This is a further test. I like cheese. 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This is a further test. I like cheese.</p>
+<p><img class="post__image" src="https://hillsy.github.io/publii-test/media/posts/2/lolcat_tease.jpg.900x0_q100_blur.jpg" alt="A stupid cat" width="1440" height="960"></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Test post</title>
         <author>

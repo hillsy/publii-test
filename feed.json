@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://hillsy.github.io/publii-test/another-post.html",
+            "url": "https://hillsy.github.io/publii-test/another-post.html",
+            "title": "Another post",
+            "summary": "This is a further test. I like cheese. ",
+            "content_html": "<p>This is a further test. I like cheese.</p>\n<p><img class=\"post__image\" src=\"https://hillsy.github.io/publii-test/media/posts/2/lolcat_tease.jpg.900x0_q100_blur.jpg\" alt=\"A stupid cat\" width=\"1440\" height=\"960\"></p>",
+            "author": {
+                "name": "Shaun Hills"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-05-15T23:15:28+01:00",
+            "date_modified": "2020-05-15T23:15:28+01:00"
+        },
+        {
             "id": "https://hillsy.github.io/publii-test/test-post.html",
             "url": "https://hillsy.github.io/publii-test/test-post.html",
             "title": "Test post",
