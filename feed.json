@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Test website",
+    "description": "",
+    "home_page_url": "https://hillsy.github.io/publii-test",
+    "feed_url": "https://hillsy.github.io/publii-test/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Shaun Hills"
+    },
+    "items": [
+        {
+            "id": "https://hillsy.github.io/publii-test/test-post.html",
+            "url": "https://hillsy.github.io/publii-test/test-post.html",
+            "title": "Test post",
+            "summary": "What does this do?",
+            "content_html": "What does this do?",
+            "author": {
+                "name": "Shaun Hills"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-05-15T23:08:45+01:00",
+            "date_modified": "2020-05-15T23:08:45+01:00"
+        }
+    ]
+}

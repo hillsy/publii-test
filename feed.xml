@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Test website</title>
+    <link href="https://hillsy.github.io/publii-test/feed.xml" rel="self" />
+    <link href="https://hillsy.github.io/publii-test" />
+    <updated>2020-05-15T23:09:14+01:00</updated>
+    <author>
+        <name>Shaun Hills</name>
+    </author>
+    <id>https://hillsy.github.io/publii-test</id>
+
+    <entry>
+        <title>Test post</title>
+        <author>
+            <name>Shaun Hills</name>
+        </author>
+        <link href="https://hillsy.github.io/publii-test/test-post.html"/>
+        <id>https://hillsy.github.io/publii-test/test-post.html</id>
+
+        <updated>2020-05-15T23:08:45+01:00</updated>
+            <summary>
+                <![CDATA[
+                    What does this do?
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                What does this do?
+            ]]>
+        </content>
+    </entry>
+</feed>
